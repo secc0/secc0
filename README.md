@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas em busca de uma oportunidade de estágio.
 Tenho me dedicado ao desenvolvimento de projetos práticos utilizando o padrão MVC com Flask, além de explorar soluções modernas com FastAPI, Node.js e Express.js.
-Também aplico tecnologias como JavaScript, TypeScript, Docker, SQL, MySQL e MongoDB no dia a dia. Estou sempre em busca de aprimorar minhas habilidades e colocar em prática os conhecimentos adquiridos durante a graduação.
+Também aplico tecnologias como JavaScript, TypeScript, Docker, MySQL e MongoDB no dia a dia. Estou sempre em busca de aprimorar minhas habilidades e colocar em prática os conhecimentos adquiridos durante a graduação.
 
 ---
 
