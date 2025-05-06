@@ -18,9 +18,12 @@ Tenho me dedicado a desenvolver projetos práticos utilizando o padrão **MVC co
 ### 🌐 Back-end
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
+  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twilio.svg" height="40" alt="Twilio"/>
 </p>
 
 ### 🛢️ Banco de Dados
@@ -37,6 +40,7 @@ Tenho me dedicado a desenvolver projetos práticos utilizando o padrão **MVC co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" height="40" alt="Twilio"/>
 </p>
 
 
