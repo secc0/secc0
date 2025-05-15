@@ -76,3 +76,9 @@ Também aplico tecnologias como JavaScript, TypeScript, Docker, MySQL e MongoDB 
 - 🖥️ GitHub: [github.com/secc0](https://github.com/secc0)
 
 ---
+
+## 📊 My Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secc0&layout=compact&langs_count=7&theme=dark"/>
+</div>
