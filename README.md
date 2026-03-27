@@ -4,8 +4,8 @@
 Currently building backend infrastructure at **ECHO AI Laboratory** (MIT Technology Review),
 working on mobile app backends, distributed services, and internal AI tooling.
 
-Also studying **Machine Learning fundamentals** — including implementing neural networks
-from scratch in pure Python (no frameworks).
+Also studying **Machine Learning** — from the math foundations up, including linear algebra
+(Imperial College London / Coursera) and implementing neural networks from scratch in pure Python.
 
 ---
 
@@ -45,7 +45,7 @@ from scratch in pure Python (no frameworks).
 
 ## 🚀 What I've built
 
-- **Neural Network from Scratch** — Implemented a full neural network in pure Python with no external libraries: forward pass, ReLU activation, MSE loss, and gradient descent from the ground up
+- **[Neural Network from Scratch](https://github.com/secc0/ML-framework)** — Full neural network in pure Python with no external libraries: forward pass, ReLU activation, MSE loss, and gradient descent implemented from the ground up
 - **AI Infrastructure** — Deployed DeepSeek OCR on a dedicated GPU server, cutting OCR costs to near zero and removing dependency on paid providers
 - **Backend optimization** — Rebuilt an OCR/GPC service in Python + TypeScript, reducing operational costs by **25x**
 - **Mobile app backend** — Full NestJS + Prisma architecture with clean layers and modular design
@@ -53,8 +53,16 @@ from scratch in pure Python (no frameworks).
 
 ---
 
+## 🎓 Education
+
+**Systems Analysis and Development**
+Faculdade Impacta de Tecnologia — Graduated Dec 2025
+
+---
+
 ## 📜 Certifications
 
+- Mathematics for Machine Learning: Linear Algebra — Imperial College London / Coursera (Mar 2026)
 - AWS Academy Cloud Foundations — AWS Academy (2024)
 - Python Basic — HackerRank (2025)
 - SQL Basic — HackerRank (2025)
@@ -63,7 +71,7 @@ from scratch in pure Python (no frameworks).
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-secco-01b16b264/)
+[![LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-secco-01b16b264/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:secco221@gmail.com)
 
 ---
