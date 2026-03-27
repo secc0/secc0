@@ -4,6 +4,9 @@
 Currently building backend infrastructure at **ECHO AI Laboratory** (MIT Technology Review),
 working on mobile app backends, distributed services, and internal AI tooling.
 
+Also studying **Machine Learning fundamentals** — including implementing neural networks
+from scratch in pure Python (no frameworks).
+
 ---
 
 ## 🛠️ Tech Stack
@@ -42,6 +45,7 @@ working on mobile app backends, distributed services, and internal AI tooling.
 
 ## 🚀 What I've built
 
+- **Neural Network from Scratch** — Implemented a full neural network in pure Python with no external libraries: forward pass, ReLU activation, MSE loss, and gradient descent from the ground up
 - **AI Infrastructure** — Deployed DeepSeek OCR on a dedicated GPU server, cutting OCR costs to near zero and removing dependency on paid providers
 - **Backend optimization** — Rebuilt an OCR/GPC service in Python + TypeScript, reducing operational costs by **25x**
 - **Mobile app backend** — Full NestJS + Prisma architecture with clean layers and modular design
