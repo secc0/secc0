@@ -1,83 +1,68 @@
-# 👋 Olá! Eu sou o João Vitor de Sousa Secco
+# Hey, I'm João Vitor 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas em busca de uma oportunidade de estágio.
-Tenho me dedicado ao desenvolvimento de projetos práticos utilizando o padrão MVC com Flask, além de explorar soluções modernas com FastAPI, Node.js e Express.js.
-Também aplico tecnologias como JavaScript, TypeScript, Docker, MySQL e MongoDB no dia a dia. Estou sempre em busca de aprimorar minhas habilidades e colocar em prática os conhecimentos adquiridos durante a graduação.
+**Backend Developer** focused on TypeScript, Python, and AI-powered systems.
+Currently building backend infrastructure at **ECHO AI Laboratory** (MIT Technology Review),
+working on mobile app backends, distributed services, and internal AI tooling.
 
 ---
 
-## 🧠 Tecnologias que utilizo
+## 🛠️ Tech Stack
 
-### 💻 Linguagens
-
+### Languages
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
 </p>
 
-### 🌐 Back-end
-
+### Back-end
 <p>
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="NestJS"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask"/>
   <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twilio.svg" height="40" alt="Twilio"/>
 </p>
 
-### 🛢️ Banco de Dados
-
+### Databases & ORM
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma"/>
 </p>
 
-### ⚙️ DevOps & Ferramentas
-
+### DevOps & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
-  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" height="40" alt="Twilio"/>
 </p>
 
+---
+
+## 🚀 What I've built
+
+- **AI Infrastructure** — Deployed DeepSeek OCR on a dedicated GPU server, cutting OCR costs to near zero and removing dependency on paid providers
+- **Backend optimization** — Rebuilt an OCR/GPC service in Python + TypeScript, reducing operational costs by **25x**
+- **Mobile app backend** — Full NestJS + Prisma architecture with clean layers and modular design
+- **Discord monitoring bot** — Nike product tracker with web scraping and real-time Discord alerts
 
 ---
 
-## 📜 Certificações
+## 📜 Certifications
 
-- **Curso Python Completo**  
-  Emitido por: Danki Code – Fevereiro de 2023
-
-- **Curso JavaScript Completo**  
-  Emitido por: Danki Code – Março de 2025
-
-- **HackerRank Certificate – Python Basic**  
-  Emitido por: HackerRank – Fevereiro de 2025
-
-- **HackerRank Certificate – SQL Basic**  
-  Emitido por: HackerRank – Abril de 2025
-
-- **Lógica de Programação: Mergulhe em Programação com JavaScript**  
-  Emitido por: Alura – Julho de 2024
-
-- **AWS Academy Cloud Foundations**  
-  Emitido por: AWS Academy
+- AWS Academy Cloud Foundations — AWS Academy (2024)
+- Python Basic — HackerRank (2025)
+- SQL Basic — HackerRank (2025)
 
 ---
 
-## 📫 Contato
+## 📫 Let's connect
 
-- 📧 Email: [secco221@gmail.com](mailto:secco221@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/joão-vitor-secco-01b16b264](https://www.linkedin.com/in/joão-vitor-secco-01b16b264/)  
-- 🖥️ GitHub: [github.com/secc0](https://github.com/secc0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-secco-01b16b264/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:secco221@gmail.com)
 
 ---
-
-## 📊 My Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secc0&layout=compact&langs_count=7&theme=dark"/>
