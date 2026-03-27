@@ -71,7 +71,7 @@ Faculdade Impacta de Tecnologia — Graduated Dec 2025
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-secco-01b16b264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-secco-01b16b264/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:secco221@gmail.com)
 
 ---
