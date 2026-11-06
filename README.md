@@ -51,6 +51,20 @@ and studying Machine Learning from the math up.
 - **[Neural Network from Scratch](https://github.com/secc0/ML-framework)** — Neural network in pure Python, no external libraries: forward pass, ReLU, MSE loss and gradient descent
 - **Discord monitoring bot** — Nike product tracker with web scraping and real-time Discord alerts
 
+## 🔥 Currently building: 56 days of AI projects
+
+Between **Nov 6 and Dec 31, 2026** I'm shipping one small public AI project every day, all built on the [OpenRouter](https://openrouter.ai) API. The projects follow the skills Forward Deployed / AI engineer roles ask for today:
+
+- **LLM fundamentals** — streaming, fallbacks, structured outputs, usage and cost tracking
+- **RAG** — pgvector, hybrid search, reranking, citations and evals
+- **Agents & MCP** — LangGraph, MCP servers and clients, agent evals
+- **AI in CI/CD** — PR reviewers, failure triage, evaluation gates
+- **Safety** — PII handling (LGPD), prompt-injection red-teaming, guardrails
+- **Voice** — transcription, TTS and a voice agent
+
+Every repo ships with tests that run without the API, green CI, a README with a measured result, and an MIT license.
+
+**Latest:** [`ai-01-llm-starter`](https://github.com/secc0/ai-01-llm-starter) — terminal chat for OpenRouter with streaming, model fallbacks and a per-call usage log (model, tokens, cost, latency).
 ---
 
 ## 🎓 Education
