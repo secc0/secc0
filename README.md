@@ -1,11 +1,9 @@
 # Hey, I'm João Vitor 👋
 
-**Backend Developer** focused on TypeScript, Python, and AI-powered systems.
-Currently building backend infrastructure at **ECHO AI Laboratory** (MIT Technology Review),
-working on mobile app backends, distributed services, and internal AI tooling.
-
-Also studying **Machine Learning** — from the math foundations up, including linear algebra
-(Imperial College London / Coursera) and implementing neural networks from scratch in pure Python.
+**Backend engineer** focused on TypeScript, Node.js and AI-powered systems (LLMs, RAG, agents).
+Previously at **ECHO AI Laboratory** (MIT Technology Review), where I led the backend of a mobile app
+and worked on its integration with internal AI infrastructure. Now doing freelance work on a CRM
+and studying Machine Learning from the math up.
 
 ---
 
@@ -22,13 +20,14 @@ Also studying **Machine Learning** — from the math foundations up, including l
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="NestJS"/>
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js"/>
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI"/>
   <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask"/>
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js"/>
 </p>
 
 ### Databases & ORM
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma"/>
@@ -45,20 +44,18 @@ Also studying **Machine Learning** — from the math foundations up, including l
 
 ## 🚀 What I've built
 
-- **[Neural Network from Scratch](https://github.com/secc0/ML-framework)** — Full neural network in pure Python with no external libraries: forward pass, ReLU activation, MSE loss, and gradient descent implemented from the ground up
-- **AI Infrastructure** — Deployed DeepSeek OCR on a dedicated GPU server, cutting OCR costs to near zero and removing dependency on paid providers
-- **Backend optimization** — Rebuilt an OCR/GPC service in Python + TypeScript, reducing operational costs by **25x**
-- **Mobile app backend** — Full NestJS + Prisma architecture with clean layers and modular design
+- **Mobile app backend** — Led the backend of a mobile app (NestJS + Prisma), with clean layers and modular design
+- **Document parsing & OCR migration** — Moved the AI behind a document parsing service from Google to Mistral, cutting OCR cost by up to **25x**
+- **Local AI models** — Ran DeepSeek-OCR and Qwen on a dedicated GPU server, removing the dependency on external OCR APIs
+- **CRM with an AI agent** — Internal CRM (React, Node.js, Express, PostgreSQL, Prisma) and a system for a law firm with an AI agent that answers clients and updates lead status
+- **[Neural Network from Scratch](https://github.com/secc0/ML-framework)** — Neural network in pure Python, no external libraries: forward pass, ReLU, MSE loss and gradient descent
 - **Discord monitoring bot** — Nike product tracker with web scraping and real-time Discord alerts
 
 ---
 
 ## 🎓 Education
 
-**Systems Analysis and Development**
-Faculdade Impacta de Tecnologia — Graduated Dec 2025
-
----
+**Systems Analysis and Development** — Faculdade Impacta de Tecnologia (graduated Dec 2025)
 
 ## 📜 Certifications
 
@@ -73,8 +70,3 @@ Faculdade Impacta de Tecnologia — Graduated Dec 2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-secco-01b16b264/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:secco221@gmail.com)
-
----
-
-<div align="center">
-</div>
